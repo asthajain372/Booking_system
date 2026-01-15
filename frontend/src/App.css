@@ -1,0 +1,10 @@
+/* App.css - you can start empty or add Tailwind directives if needed */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional custom styles */
+body {
+  @apply bg-gray-50 text-gray-800;
+}
